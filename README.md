@@ -61,14 +61,7 @@ Teclas na janela do programa: `Q`/`ESC` sai, `R` recalibra, `D` mostra ou
 esconde o esqueleto.
 
 Todo comando disparado e registrado em `gestos_log.csv`
-(hora, gesto, acao, tecla), usado para montar a tabela de acuracia.
-
-## Protocolo de avaliacao
-
-1. Cada gesto executado 20 vezes por pessoa; conta acertos e erros a partir
-   do log.
-2. Teste de falso positivo: 2 minutos apresentando e gesticulando
-   normalmente, sem fazer os gestos; o esperado e zero comandos no log.
+(hora, gesto, acao, tecla).
 
 ## Estrutura
 
